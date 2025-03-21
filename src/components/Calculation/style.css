@@ -1,0 +1,14 @@
+.calculation-container {
+    height: 33%;
+    width: 100%;
+    display:flex;
+    align-items: flex-end;
+}
+
+.calculation-string {
+    margin-left: auto;
+    font-size:100px;
+    margin-right: 1rem;
+    color:azure;
+    font-weight: 400;
+}
