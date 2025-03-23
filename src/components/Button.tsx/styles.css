@@ -1,0 +1,14 @@
+.calculator_button {
+    display: flex;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(220, 162, 15);
+    align-items: center;
+    justify-content: center;
+}
+
+.calculator_button-value {
+    color: azure;
+    font-size: 3rem;
+}
